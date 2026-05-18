@@ -1,0 +1,7 @@
+commit 42104cd78f120333f016d683b61ebcf7b8b6333f
+Author: roomroom568-cell <277173977+roomroom568-cell@users.noreply.github.com>
+Date:   Tue May 19 00:00:23 2026 +0300
+
+    Add Microsoft Defender for DevOps workflow
+    
+    This workflow integrates Microsoft Security DevOps for static analysis in the development cycle.
